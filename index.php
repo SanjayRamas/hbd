@@ -1,3 +1,3 @@
 <?php
-	header("HBD.html");
+	header("Location: HBD.html");
 ?>
